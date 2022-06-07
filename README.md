@@ -1,5 +1,5 @@
 <img src="./newQualityLogo.png" width="400" height=auto align="middle" alt="Logo des Projektes">
-<p style="background-image: url('img_girl.jpg');"></p>
+<p style="background-image: url('./Background (2).png');"></p>
 
 ### Erkennung von Weinblattkrankheiten mit KI
 
