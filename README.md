@@ -1,5 +1,5 @@
 <img src="./newQualityLogo.png" width="400" height=auto>
-<p style="background-image: url('./Background (2).png');"></p>
+<p style="background-image: url('https://github.com/MatheLi/VineLeafDiseaseAndAI/blob/321ab4487201b683f11fba4cf25b5eef90e37ce5/Background%20(2).jpg');"></p>
 
 ### Erkennung von Weinblattkrankheiten mit KI
 
