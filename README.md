@@ -1,12 +1,6 @@
-# Vine-leaf-diseases-and-AI
+<img src="Link" width="300" hight=auto>
 
-### Recognition of vine leaf diseases with AI
-
-Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
-
-<img src="https://raw.githubusercontent.com/MareSeestern/VineLeafDisease/master/res/titelbild.JPG" width="900" height="500">
-
-<a href="https://pixabay.com/de/photos/trauben-weintrauben-sonne-3550729/">Image Source</a>
+### Erkennung von Blattkrankheiten an Weinreben mit Künstlicher Intelligenz (KI)
 
 Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
 
