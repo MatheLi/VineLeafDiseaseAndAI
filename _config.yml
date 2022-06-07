@@ -4,3 +4,5 @@ body {
   background-image: url('./Background (2).png');
 }
 </style>
+
+theme: jekyll-theme-minimal
