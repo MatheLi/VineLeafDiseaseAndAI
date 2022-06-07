@@ -1,11 +1,6 @@
-# Vine-leaf-diseases-and-AI
+<img src="https://github.com/MatheLi/VineLeafDiseaseAndAI/blob/d7a0463d1732e7520d3e909d39b87af81816a88b/Logo_Bessere_Quali.png" width="400" height=auto align="middle" alt="Logo des Projektes">
+
 ### Erkennung von Weinblattkrankheiten mit KI
-
-Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
-
-<img src="https://raw.githubusercontent.com/MareSeestern/VineLeafDisease/master/res/titelbild.JPG" width="900" height="500">
-
-<a href="https://pixabay.com/de/photos/trauben-weintrauben-sonne-3550729/">Image Source</a>
 
 Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
 
