@@ -1,4 +1,4 @@
-<img src="https://github.com/MatheLi/VineLeafDiseaseAndAI/blob/d7a0463d1732e7520d3e909d39b87af81816a88b/Logo_Bessere_Quali.png" width="400" height=auto align="middle" alt="Logo des Projektes">
+<img src="./newQualityLogo.png" width="400" height=auto align="middle" alt="Logo des Projektes">
 
 ### Erkennung von Weinblattkrankheiten mit KI
 
