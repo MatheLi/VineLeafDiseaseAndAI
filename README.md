@@ -1,6 +1,6 @@
-<img src="Link" width="300" hight=auto>
+<img src="https://github.com/MatheLi/VineLeafDiseaseAndAI/blob/d7a0463d1732e7520d3e909d39b87af81816a88b/Logo_Bessere_Quali.png" width="400" height=auto align="middle" alt="Logo des Projektes">
 
-### Erkennung von Blattkrankheiten an Weinreben mit Künstlicher Intelligenz (KI)
+### Erkennung von Weinblattkrankheiten mit KI
 
 Ziel des Projekes: Unsere KI soll mit Hilfe von Handybildern Weinblattkrankheiten erkennen und unterscheiden können.
 
@@ -22,9 +22,12 @@ Zu Testzwecken läuft eine eigene API aktuell auf einem Raspberry-PI und schreib
   'Type': 'Esca',
   'timestamp': time.time(),
   'Koordinaten': '52.52,13.45', 
-  'Username': 'Mario'
+  'Username': 'INFOrmAtIc Teens'
 }
 ```
 
-| [Generelle Projektinformationen](https://matheli.github.io/VineLeafDiseaseAndAI/) | [Die verschiedenen Krankheiten](https://matheli.github.io/VineLeafDiseaseAndAI/Different-diseases) | [Die App](https://matheli.github.io/VineLeafDiseaseAndAI/App) | [Der Code des Modells Teil 1](https://matheli.github.io/VineLeafDiseaseAndAI/Code) | [Der Code des Modells Teil 2](https://matheli.github.io/VineLeafDiseaseAndAI/Code2) | [Image Preprocessing](https://matheli.github.io/VineLeafDiseaseAndAI/ImagePreprocessing) | [Sonstige Informationen](https://matheli.github.io/VineLeafDiseaseAndAI/Sonstiges) | [Umfrage](https://matheli.github.io/VineLeafDiseaseAndAI/Survey) | [The Team](https://matheli.github.io/VineLeafDiseaseAndAI/Team) | [Der Betriebsschlüssel](https://matheli.github.io/VineLeafDiseaseAndAI/Betriebsschl%C3%BCssel) | [Interviews mit den Weinköniginnen](https://matheli.github.io/VineLeafDiseaseAndAI/Interviews)| [Datenschutzerklärung](https://matheli.github.io/VineLeafDiseaseAndAI/Datenschutzerklärung) | [Impressum](https://matheli.github.io/VineLeafDiseaseAndAI/Impressum) |
+## Bitte nehmen Sie an unserer Umfrage teil:
 
+[Umfrage](https://survey123.arcgis.com/share/ee39c39ed1c04be8a95455205bf60710) 
+
+| [Generelle Projektinformationen](https://matheli.github.io/VineLeafDiseaseAndAI/) | [Die verschiedenen Krankheiten](https://matheli.github.io/VineLeafDiseaseAndAI/Different-diseases) | [Die App](https://matheli.github.io/VineLeafDiseaseAndAI/App) | [Der Code des Modells Teil 1](https://matheli.github.io/VineLeafDiseaseAndAI/Code) | [Der Code des Modells Teil 2](https://matheli.github.io/VineLeafDiseaseAndAI/Code2) | [Image Preprocessing](https://matheli.github.io/VineLeafDiseaseAndAI/ImagePreprocessing) | [Sonstige Informationen](https://matheli.github.io/VineLeafDiseaseAndAI/Sonstiges) | [Umfrage](https://matheli.github.io/VineLeafDiseaseAndAI/Survey) | [The Team](https://matheli.github.io/VineLeafDiseaseAndAI/Team) | [Der Betriebsschlüssel](https://matheli.github.io/VineLeafDiseaseAndAI/Betriebsschl%C3%BCssel) | [Interviews mit den Weinköniginnen](https://matheli.github.io/VineLeafDiseaseAndAI/Interviews)| [Datenschutzerklärung](https://matheli.github.io/VineLeafDiseaseAndAI/Datenschutzerklärung) | [Impressum](https://matheli.github.io/VineLeafDiseaseAndAI/Impressum) |
